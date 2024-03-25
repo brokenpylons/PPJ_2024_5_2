@@ -1,3 +1,1 @@
-# ManualGrade
-
-Without automatic tests.
+# XML sheme 5.2
